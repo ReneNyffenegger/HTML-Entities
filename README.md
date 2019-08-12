@@ -2,6 +2,8 @@
 
 ## TODO
 
+43: is &add; defined?
+
 818: &818; is rendered differently from &UnderBar;
 
 8460: Is &PoincarePlane; defined?
@@ -22,7 +24,11 @@
 
 8804: is &LessEqual; defined?
 
+8858: is &ocr; defined?
+
 8888: is &mmap; defined?
+
+8920: is &lll; defined?
 
 8991: is &drcorner; defined?
 

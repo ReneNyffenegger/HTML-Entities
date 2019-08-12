@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 #
 # analyze.py
 #  analyzes HTML-Entities.csv for basic errors and
